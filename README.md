@@ -35,6 +35,24 @@ React Native · Expo · TypeScript · Supabase (Postgres, RLS, Edge Functions em
 
 <a href="https://github.com/lucianofonsecadev/lulu-financas"><img src="https://raw.githubusercontent.com/lucianofonsecadev/lulu-financas/main/docs/landing-desktop.png" alt="Lulu Finanças" width="720"></a>
 
+### 📲 [Lupac](https://github.com/lucianofonsecadev/lupac-plataforma)
+Plataforma que **organiza e publica os vídeos dos meus canais** no YouTube, TikTok e Instagram a partir de uma única página:
+fila com aprovação antes de cada envio, calendário, histórico, números dos canais e vários canais no mesmo programa.
+Python · YouTube Data API v3 · TikTok API · Instagram Graph API · OAuth 2.0 · Whisper · FFmpeg
+<br><sub>Código privado · vitrine com telas e decisões técnicas.</sub>
+
+<a href="https://github.com/lucianofonsecadev/lupac-plataforma"><img src="https://raw.githubusercontent.com/lucianofonsecadev/lupac-plataforma/main/docs/telas/fila.jpg" alt="Lupac: fila de vídeos" width="720"></a>
+
+### 🔕 [Kietto](https://github.com/lucianofonsecadev/kietto)
+App Android que **filtra ligações indesejadas, protege o sono e o foco** e ainda traz um despertador completo.
+Tudo roda no aparelho, sem conta e sem enviar dados para a internet. Em testes, a caminho da Google Play.
+Java nativo · Android 10+ · CallScreeningService · VpnService · AlarmManager
+<br><sub>Código privado · vitrine com telas e decisões técnicas.</sub>
+
+<a href="https://github.com/lucianofonsecadev/kietto"><img src="https://raw.githubusercontent.com/lucianofonsecadev/kietto/main/docs/telas/inicio.webp" alt="Kietto: início" width="220"></a>
+<a href="https://github.com/lucianofonsecadev/kietto"><img src="https://raw.githubusercontent.com/lucianofonsecadev/kietto/main/docs/telas/chamadas.webp" alt="Kietto: chamadas" width="220"></a>
+<a href="https://github.com/lucianofonsecadev/kietto"><img src="https://raw.githubusercontent.com/lucianofonsecadev/kietto/main/docs/telas/sono.webp" alt="Kietto: modo sono" width="220"></a>
+
 ### 🎬 [Estúdio de vídeos](https://github.com/lucianofonsecadev/estudio-de-videos)
 Transforma um vídeo longo do YouTube em **Shorts prontos** (transcrição com Whisper, cortes pelo som, legenda
 animada, cartões de valores, capa própria) e tem um **painel web local que publica e agenda** pela YouTube Data API.
