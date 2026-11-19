@@ -33,7 +33,7 @@ mercado", ele entende, mostra o resumo e só grava depois que você confirma.
 React Native · Expo · TypeScript · Supabase (Postgres, RLS, Edge Functions em Deno) · OpenAI · WhatsApp Cloud API · Google Play Billing
 <br><sub>Código privado · vitrine com telas, arquitetura e decisões técnicas.</sub>
 
-<a href="https://github.com/lucianofonsecadev/lulu-financas"><img src="https://raw.githubusercontent.com/lucianofonsecadev/lulu-financas/main/docs/landing-desktop.png" alt="Lulu Finanças" width="720"></a>
+<a href="https://github.com/lucianofonsecadev/lulu-financas"><img src="https://raw.githubusercontent.com/lucianofonsecadev/lucianofonsecadev/main/assets/lulu.gif" alt="Lulu Finanças: telas do app" width="720"></a>
 
 ### 📲 [Lupac](https://github.com/lucianofonsecadev/lupac-plataforma)
 Plataforma que **organiza e publica os vídeos dos meus canais** no YouTube, TikTok e Instagram a partir de uma única página:
@@ -49,11 +49,7 @@ Tudo roda no aparelho, sem conta e sem enviar dados para a internet. Em testes, 
 Java nativo · Android 10+ · CallScreeningService · VpnService · AlarmManager
 <br><sub>Código privado · vitrine com telas e decisões técnicas.</sub>
 
-<a href="https://github.com/lucianofonsecadev/kietto"><img src="https://raw.githubusercontent.com/lucianofonsecadev/kietto/main/docs/telas/inicio.webp" alt="Kietto: início" width="220"></a>
-<a href="https://github.com/lucianofonsecadev/kietto"><img src="https://raw.githubusercontent.com/lucianofonsecadev/kietto/main/docs/telas/chamadas.webp" alt="Kietto: chamadas" width="220"></a>
-<a href="https://github.com/lucianofonsecadev/kietto"><img src="https://raw.githubusercontent.com/lucianofonsecadev/kietto/main/docs/telas/sono.webp" alt="Kietto: modo sono" width="220"></a>
-
-
+<a href="https://github.com/lucianofonsecadev/kietto"><img src="https://raw.githubusercontent.com/lucianofonsecadev/lucianofonsecadev/main/assets/kietto.gif" alt="Kietto: telas do app" width="720"></a>
 ---
 
 ## Como eu trabalho
