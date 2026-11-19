@@ -58,5 +58,3 @@ Java nativo · Android 10+ · CallScreeningService · VpnService · AlarmManager
 - **Segurança e privacidade primeiro:** dados isolados por usuário, nada de chave no cliente, IA que sugere mas não decide sozinha.
 - **Testar de verdade:** testes automatizados para regra de negócio, banco e telas.
 - **Produto simples para quem usa:** textos claros, confirmação antes de qualquer ação importante, modo escuro e acessibilidade.
-
-<p align="center"><sub>📍 Brasília · 🎥 <a href="https://www.youtube.com/@2tabom">youtube.com/@2tabom</a></sub></p>
