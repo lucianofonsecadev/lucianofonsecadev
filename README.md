@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Luciano 👋</h1>
 
 <p align="center">
-Desenvolvedor em formação em Brasília. Construo produtos de ponta a ponta — app, backend, automação e o que mais
+Estudante de Informática em Brasília, quase me formando em <b>Análise de Sistemas</b>. Construo produtos de ponta a ponta — app, backend, automação e o que mais
 precisar — com <b>React Native</b>, <b>TypeScript</b>, <b>Supabase</b> e <b>Python</b>.<br>
 Também faço o canal <a href="https://www.youtube.com/@2tabom">2 TÁ BOM</a> no YouTube, e foi dele que saíram vários desses projetos.
 </p>
@@ -41,7 +41,7 @@ fila com aprovação antes de cada envio, calendário, histórico, números dos 
 Python · YouTube Data API v3 · TikTok API · Instagram Graph API · OAuth 2.0 · Whisper · FFmpeg
 <br><sub>Código privado · vitrine com telas e decisões técnicas.</sub>
 
-<a href="https://github.com/lucianofonsecadev/lupac-plataforma"><img src="https://raw.githubusercontent.com/lucianofonsecadev/lupac-plataforma/main/docs/telas/fila.jpg" alt="Lupac: fila de vídeos" width="720"></a>
+<a href="https://github.com/lucianofonsecadev/lupac-plataforma"><img src="https://raw.githubusercontent.com/lucianofonsecadev/lucianofonsecadev/main/assets/lupac.gif" alt="Lupac: telas do painel" width="720"></a>
 
 ### 🔕 [Kietto](https://github.com/lucianofonsecadev/kietto)
 App Android que **filtra ligações indesejadas, protege o sono e o foco** e ainda traz um despertador completo.
@@ -53,17 +53,12 @@ Java nativo · Android 10+ · CallScreeningService · VpnService · AlarmManager
 <a href="https://github.com/lucianofonsecadev/kietto"><img src="https://raw.githubusercontent.com/lucianofonsecadev/kietto/main/docs/telas/chamadas.webp" alt="Kietto: chamadas" width="220"></a>
 <a href="https://github.com/lucianofonsecadev/kietto"><img src="https://raw.githubusercontent.com/lucianofonsecadev/kietto/main/docs/telas/sono.webp" alt="Kietto: modo sono" width="220"></a>
 
-### 🎬 [Estúdio de vídeos](https://github.com/lucianofonsecadev/estudio-de-videos)
-Transforma um vídeo longo do YouTube em **Shorts prontos** (transcrição com Whisper, cortes pelo som, legenda
-animada, cartões de valores, capa própria) e tem um **painel web local que publica e agenda** pela YouTube Data API.
-Python · FFmpeg · Whisper · Pillow · YouTube Data API v3 · OAuth 2.0 · HTML/CSS/JS
-<br><sub><a href="https://lucianofonsecadev.github.io/estudio-de-videos/">ver a página do projeto</a></sub>
-
-<a href="https://github.com/lucianofonsecadev/estudio-de-videos"><img src="https://raw.githubusercontent.com/lucianofonsecadev/estudio-de-videos/main/docs/antes-depois.png" alt="Estúdio de vídeos: antes e depois" width="720"></a>
 
 ---
 
 ## Como eu trabalho
+- **Base primeiro:** sou estudante de Informática e estou quase me formando em Análise de Sistemas. Continuo estudando a base, a lógica de programação, porque é ela que me deixa entender e revisar o que eu construo.
+- **Desenvolvimento moderno, com IA:** trabalho com IA e agentes de código para melhorar a minha produção e agilizar o desenvolvimento. Eu defino o que precisa ser feito e as regras, reviso o que o agente propõe e aprovo cada mudança importante antes de ela entrar.
 - **Segurança e privacidade primeiro:** dados isolados por usuário, nada de chave no cliente, IA que sugere mas não decide sozinha.
 - **Testar de verdade:** testes automatizados para regra de negócio, banco e telas.
 - **Produto simples para quem usa:** textos claros, confirmação antes de qualquer ação importante, modo escuro e acessibilidade.
