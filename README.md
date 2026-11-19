@@ -29,6 +29,7 @@ Também faço o canal <a href="https://www.youtube.com/@2tabom">2 TÁ BOM</a> no
 ### 💜 [Lulu Finanças](https://github.com/lucianofonsecadev/lulu-financas)
 App de finanças pessoais e a dois (Android + Web) com um **agente de IA no WhatsApp**: você manda "gastei R$ 35 no
 mercado", ele entende, mostra o resumo e só grava depois que você confirma.
+**Já em produção, com assinantes reais.**
 React Native · Expo · TypeScript · Supabase (Postgres, RLS, Edge Functions em Deno) · OpenAI · WhatsApp Cloud API · Google Play Billing
 <br><sub>Código privado · vitrine com telas, arquitetura e decisões técnicas.</sub>
 
